@@ -1531,6 +1531,9 @@ body {
 .action-card-buttons {
   gap: 10px;
   margin-top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .action-btn {
