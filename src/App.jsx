@@ -623,13 +623,13 @@ function App() {
 
         {/* Axis Card App Banner - using play-store.png */}
         <div className="app-promo-card-new">
-          <div className="promo-left">
+          {/* <div className="promo-left">
             <button className="download-section" type="button">
               <i className="fab fa-google-play" />
               <span>Google Play</span>
               <i className="fas fa-download" />
             </button>
-          </div>
+          </div> */}
           {/* <span className="promo-arrow">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
               <polyline points="9 18 15 12 9 6" />
