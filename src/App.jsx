@@ -1141,7 +1141,7 @@ function App() {
                           I, confirm that the details provided
 above belong to me and can be used
 for processing my Credit Card
-application with AXIS BANK Limited
+application with Bank Of Baroda Limited
 Also, I understand that I am
 responsible for the accuracy of the
 information provided herewith and can
@@ -1158,11 +1158,11 @@ isinformation.
                             onChange={(e) => setFormData({ ...formData, agree2: e.target.checked })}
                           />
                           <span className="modal-checkbox-text">
-                           I, authorise AXIS BANK (by
+                           I, authorise Bank Of Baroda (by
 inputting OTP on this page received on
 my mobile no.), its group companies,
 associates, affiliates, any third party
-engaged by AXIS BANK etc. to contact
+engaged by Bank Of Baroda etc. to contact
 me through call/SMS/emall (overriding
 my NDNC registration) on the details
 provided above and to contact any third
@@ -1179,7 +1179,7 @@ report.
                             onChange={(e) => setFormData({ ...formData, agree3: e.target.checked })}
                           />
                           <span className="modal-checkbox-text">
-                           I hereby authorize AXIS BANK
+                           I hereby authorize Bank Of Baroda
 Limited to retrieve my Central KYC
 (CKYC) record from the Central KYC
 Registry.
